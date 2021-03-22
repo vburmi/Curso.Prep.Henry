@@ -1,0 +1,8 @@
+Definiciones aprendidas
+Módulo 02-JS-I
+
+Variables: Las variables son formas de dejar almacenado un dato para poder llamarlo luego, cuando se necesite. Los datos pueden ser strings, números, booleanos o null/undefined, según lo que especifiquemos y como lo hagamos.
+Strings: Son concatenaciones de caractéres (letras o números) que van entre comillas, y que son tomados literal por JS. Los lee como los escribimos.
+Funciones (argumentos, return): Las funciones son mandatos que escribimos para poder invocarlos en cualquier momento. Estos mandatos son las cosas que queremos hacer, cambiar o calcular con nuestras variables, por ejemplo. El valor de la variable se lo damos cuando invocamos la función.
+Declaraciones if: son condicionales; devuelve un resultado que puede ser un booleano, cuando la condición que señala se cumple o no. Podemos especificar cuales son las condiciones e incluso hacer condiciones anidadas. 
+Valores booleanos (true, false): son valores absolutos. Te dice si algo que estás expresando es verdadero o falso según los criterios que hayas impuesto, o los criterios del propio lenguaje.
