@@ -152,6 +152,7 @@ function agregarMetodoCalculoDescuento(producto) {
   return producto;
 
 }
+//nota
 
 // No modificar nada debajo de esta línea
 // --------------------------------
